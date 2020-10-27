@@ -1,0 +1,6 @@
+[
+ {"name": "Gordon B Wire", "age": 15, "hobby": "Programming", "phone":"319-489-6175", "address": "2860  Pyramid Valley Road" },
+ {"name": "Shirley L Carlisle","age": 20, "hobby": "Dancing", "phone":"484-846-5864", "address": "840  Berkley Street"},
+ {"name": "Shane P Soto","age": 25, "hobby": "Videogames", "phone":"321-426-6190", "address": "1875  Stoneybrook Road"},
+ {"name": "Phoebe B Simpson","age": 30, "hobby": "Music", "phone":"972-343-8165", "address": "3380  Whispering Pines Circle"}
+]
